@@ -1,0 +1,9 @@
+I Love Cricket Over Football
+MS Dhoni is my favourite player
+<<<<<<< HEAD
+I am studying BTech
+I am  in 3rd Year
+
+=======
+
+I love toplay
